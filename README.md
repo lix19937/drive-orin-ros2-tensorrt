@@ -10,3 +10,9 @@ https://github.com/MisterBooo/LeetCodeAnimation
 https://github.com/wb14123/seq2seq-couplet
 
 https://github.com/scutan90/DeepLearning-500-questions
+
+https://github.com/GokuMohandas/practicalAI
+
+https://github.com/tensorspace-team/tensorspace
+
+https://github.com/MLEveryday/100-Days-Of-ML-Code
