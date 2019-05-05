@@ -18,3 +18,5 @@ https://github.com/tensorspace-team/tensorspace
 https://github.com/MLEveryday/100-Days-Of-ML-Code
 
 https://github.com/vipstone/faceai/blob/master/doc/chinese.md
+
+https://github.com/abhinavsingh/pulsar
