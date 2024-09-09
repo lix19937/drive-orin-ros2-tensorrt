@@ -1,5 +1,10 @@
 #include <fstream>
 #include <stdint.h>
+#include <rosbag2_cpp/readers/sequential_reader.hpp>
+#include <rosbag2_cpp/storage_options.hpp>
+#include <rosbag2_cpp/converter_options.hpp>
+
+#include <rclcpp/serialization.hpp>
 
 // lscpu | grep -i byte  little
 
