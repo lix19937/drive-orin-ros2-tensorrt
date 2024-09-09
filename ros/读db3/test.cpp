@@ -1,3 +1,20 @@
+#include <fstream>
+#include <stdint.h>
+
+// lscpu | grep -i byte  little
+
+bool savebin(std::string const &fileName, const uint8_t *data, int len)
+{
+    std::ofstream binfile(fileName, std::ios::binary);
+    if (!binfile)
+    {
+        printf("Cannot open binfile file: %s\n", fileName.c_str());
+        return false;
+    }
+
+    binfile.write((const char *)data, len);
+    return !binfile.fail();
+}
 
 int test()
 {
