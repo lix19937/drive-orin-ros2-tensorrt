@@ -7,7 +7,8 @@
 
 + parallel
 
-+ pipeline   
++ pipeline     
+  
 |    stage     |      |       |       |       
 |    ------    | ---  | ----  |-----  |
 |camera 输出   |      |       |       |       
