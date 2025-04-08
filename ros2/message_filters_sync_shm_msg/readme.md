@@ -8,3 +8,4 @@ message_filters_sync_shm_msg
 
 Note that we have to specify the middleware implementation with RMW_IMPLEMENTATION=rmw_cyclonedds_cpp since otherwise rmw fastrtps cpp is used by default.
 
+https://github.com/ros2/rmw_cyclonedds/blob/rolling/shared_memory_support.md#Restrictions    
