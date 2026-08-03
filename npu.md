@@ -41,4 +41,4 @@
 5. 张量操作：减少大尺寸Permute、Gather、Scatter、Slice使用，此类算子容易触发DDR数据重排拷贝   
 6. 形状控制：尽量使用固定维度，严控动态shape；避免ONNX内置NonZero, If、Loop等控制流条件判断算子， where 算子使用fixed shape 模式      
 
-
+https://pulsar2-docs.readthedocs.io/zh-cn/latest/neutron/v6/introduction.html   
